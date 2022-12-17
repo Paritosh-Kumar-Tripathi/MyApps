@@ -1,2 +1,2 @@
 # MyApps
-I don't know how to us egit and I also cannot make complex apps. So I just made simple apps.
+I don't know how to use git and I also cannot make complex apps. So I just made simple apps.
